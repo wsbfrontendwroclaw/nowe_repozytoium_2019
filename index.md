@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Cześć
+
+#### Witaj na stronie mojego portfolio projektów z frontendu.
 
 You can use the [editor on GitHub](https://github.com/wsbfrontendwroclaw/nowe_repozytoium_2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
